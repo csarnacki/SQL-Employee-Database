@@ -1,7 +1,7 @@
 const sql = require('mysql2');
 require('dotenv').config();
 
-const connect = mysql.databaseConnection (
+const connect = sql.databaseConnection (
     process.env.DB_HOST,
     process.env.DB_USER,
     process.env.DB_PASSWORD,
