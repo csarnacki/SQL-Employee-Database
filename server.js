@@ -217,7 +217,7 @@ let employee_tracker = function () {
             ]).then((answers) => {
                 for (let i = 0; i < result.length; i++) {
                     if (result[i].last_name === answers.employee) {
-                        var name = result[i];
+                        let name = result[i];
                     }
                 }
 
