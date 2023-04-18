@@ -11,6 +11,8 @@ When Node.js is run in the command line, a list of options appears in the CLI an
 what they would like to see. Sample data is already included in the SQL files, or the user can decide to create their own data
 to use.
 
+The db folder contains all sql files and the sample data that is included in the SQL tables. 
+
 Here is a link to a video demonstrating the program in use. 
 
 <iframe src="https://drive.google.com/file/d/1ljy0Qf9zqw1pDGb-CL9GEqx0N82SIJzD/preview" width="640" height="480"></iframe>
